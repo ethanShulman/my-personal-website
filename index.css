@@ -20,5 +20,16 @@ ul {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 2rem;
     text-align: start;
+   
 }
 
+body {
+    background-color: rgb(185, 246, 244);
+    
+}
+
+button {
+
+    color: darkorange;
+    width: 300px;
+}
